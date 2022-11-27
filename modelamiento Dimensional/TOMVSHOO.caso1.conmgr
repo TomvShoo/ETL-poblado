@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="TOMVSHOO.caso1"
+  DTS:DTSID="{0D66E746-A506-4405-8E01-0EC3B6038A54}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=TOMVSHOO;Initial Catalog=caso1;Integrated Security=True;Application Name=&quot;SSIS-modelamiento Dimensional-{0D66E746-A506-4405-8E01-0EC3B6038A54}TOMVSHOO.caso1&quot;;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
